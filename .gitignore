@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+.temp
+dist
+node_modules
+user.config.js
+junit.xml
+tmp
